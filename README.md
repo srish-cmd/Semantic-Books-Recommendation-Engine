@@ -1,4 +1,4 @@
-# 📚 Semantic Book Recommender with LLMs 
+# 📚 Semantic Book Recommender with LLMs and Custom Hashmap Implementation 
 
 🚀 This repository contains all the codes of the project, **"Semantic Book Recommender with LLMs"**
 
