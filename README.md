@@ -16,7 +16,7 @@ The project is structured into five key parts:
    - Implementing **vector-based search** to find books matching a natural language query (e.g., "a book about a person seeking revenge").
    - Code in: `vector-search.ipynb`
 
-3️⃣ **Zero-shot Text Classification** 🏷️
+3️⃣ **Text Classification** 🏷️
    - Classifying books as **"fiction"** or **"non-fiction"** to enable filtering.
    - Code in: `text-classification.ipynb`
 
