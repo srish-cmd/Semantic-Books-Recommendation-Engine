@@ -3,7 +3,7 @@
 🚀 This repository contains all the codes of the project, **"Semantic Book Recommender with LLMs"**
 
 ## 📌 Overview
-This project uses **Large Language Models (LLMs)** and **vector databases** to build an advanced **book recommendation system**. Users can discover books based on **semantic search, sentiment analysis, and zero-shot classification.**
+This project uses **Large Language Models (LLMs)** and **vector databases** to build an advanced **book recommendation system**. Users can discover books based on **semantic search, sentiment analysis, and text classification.**
 
 ## 🛠️ Components of Project
 The project is structured into five key parts:
